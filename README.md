@@ -1,4 +1,4 @@
-# 🧠ChatGPT 中文调教指南[![惊人的]
+# ChatGPT 中文调教指南
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够生成类人文本。
 
